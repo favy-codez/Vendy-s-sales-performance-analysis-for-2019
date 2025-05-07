@@ -1,5 +1,5 @@
 # Vendy's performance analysis for 2019
-![Dashboard Preview](https://github.com/favy-codez/Vendy-s-sales-performance-analysis-for-2019/blob/main/Dashboard%201.png)
+![Dashboard Preview](https://github.com/favy-codez/Vendy-s-sales-performance-analysis-for-2019/blob/main/Screenshot%20(644).png)
 
 ## Overview
 This report provides an in-depth analysis of Vendy's sales performance for the year 2019, focusing on key metrics such as top-performing products, cities, regions, and salespersons. By analyzing data on revenue, sales trends, and customer behavior, this report aims to uncover the factors that contributed to Vendy’s success and provide actionable insights to refine sales strategies, improve customer engagement, and optimize product offerings.
